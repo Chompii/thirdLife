@@ -9,6 +9,6 @@ upon death on your last life you will be put in spectator and lightning will spa
 Setup:
 when everyone has joined the game you will run
 
-heart:setup
+/function heart:setup
 
 and that will start the game by making a world border, teleport everyone to the center and then give everyone 3 lives, then play normally
